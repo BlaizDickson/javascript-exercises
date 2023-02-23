@@ -6,7 +6,7 @@ function reverseString(str) {
     return reversedStr;
   }
   
-  let str = "hello";
+  let str = "";
 
   let reversedStr = reverseString(str);
 // Do not edit below this line
